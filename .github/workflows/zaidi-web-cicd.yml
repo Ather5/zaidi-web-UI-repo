@@ -28,4 +28,3 @@ jobs:
         with:
           name: webstore
           path: ./webstore
-YAML
